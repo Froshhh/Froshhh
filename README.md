@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Froshhh
-- 👀 I’m interested in learning about full stack development.
+- 👀 I’m interested in learning about front end development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript!
 
 <!---
